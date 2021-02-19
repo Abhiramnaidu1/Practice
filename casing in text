@@ -1,0 +1,4 @@
+var name = prompt("your name");
+var first = name.slice(0,1)
+var rest =name.slice(1,20);
+alert("your name is "+first.toUpperCase()+rest.toLowerCase());
