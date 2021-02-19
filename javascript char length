@@ -1,0 +1,3 @@
+var K = prompt("type here");
+var count= K.length;
+console.log("used letters are"+count +"remaining letters are "+(150-count));
